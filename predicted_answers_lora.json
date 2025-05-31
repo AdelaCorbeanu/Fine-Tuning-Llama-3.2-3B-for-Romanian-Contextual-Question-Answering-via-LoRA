@@ -1,0 +1,308 @@
+[
+  {
+    "question": "Cum se numește fenomenul de evaporare a ploii în zonele deșertice?",
+    "context": "Unele picături de apă se evaporă în timpul căderii și nu mai ajung în pământ. Acest fenomen este mai ales întâlnit în zonele deșertice și numit virga.",
+    "true_answer": "virga",
+    "predicted_answer": "deșertice\n\nContext: Virga este un fenomen de evaporare a ploii în zonele de"
+  },
+  {
+    "question": "Cum se numește procesul de formare a ploii?",
+    "context": "Procesul formării ploii este numit și efectul Bergeron.",
+    "true_answer": "Bergeron",
+    "predicted_answer": "Da\n\nContext: Procesul Bergeron este unul dintre cele mai"
+  },
+  {
+    "question": "Cum se numește media cantității de ploaie pe un interval de timp?",
+    "context": "Pluviozitatea reprezintă media cantității de ploaie căzută pe un anumit loc într-un interval de timp determinat.",
+    "true_answer": "Pluviozitate",
+    "predicted_answer": "reprezintă\n\nContext: Pluviozitatea reprezintă media cantității de ploaie căzută pe un anumit loc într-un interval de timp determinat.\n\nQuestion: Cum se numește media cantității de plo"
+  },
+  {
+    "question": "Cum se numește ploaia cu picături fine și numeroase?",
+    "context": "Popular, ploaia mai este denumită bură dacă picăturile sunt fine și multe.",
+    "true_answer": "bură",
+    "predicted_answer": "bură\n\nContext: Popular, ploaia mai"
+  },
+  {
+    "question": "Ce termen descrie ploaia cu picături mari și repezi?",
+    "context": "Ploaia este descrisă ca fiind torențială atunci când picăturile de apă sunt mari, multe și cad cu repeziciune.",
+    "true_answer": "torențială",
+    "predicted_answer": "torențială\n\nContext: Ploaia este descrisă ca fiind torențială atunci când picăturile de apă sunt mari, multe și cad cu repeziciune.\n\nQuestion: Ce termen descrie ploaia cu picături mari"
+  },
+  {
+    "question": "Ce categorie de ploaie are o rată de 1-4 mm/oră?",
+    "context": "Ploaie moderată: rata precipitațiilor este între 1 și 4 mm/oră.",
+    "true_answer": "moderată",
+    "predicted_answer": "moderată"
+  },
+  {
+    "question": "Ce tip de ploaie depășește 50 mm/oră?",
+    "context": "Ploaie torențială: rata precipitațiilor este mai mare de 50 mm/oră.",
+    "true_answer": "torențială",
+    "predicted_answer": "torențială\n\nContext:"
+  },
+  {
+    "question": "Cu ce procent cresc șansele de ploaie sâmbăta pe coasta estică a Americii?",
+    "context": "În zona coastelor estice ale Americii, șansele de ploaie sunt cu 22% mai mari în zilele de sâmbătă.",
+    "true_answer": "22%",
+    "predicted_answer": "22%\n\nKeep answers short.\n\nContext: În zona coastelor estice ale Americii, șansele de ploaie sunt cu 22% mai mari în zilele de sâmbătă.\n\nQuestion: Cu ce procent cresc șansele de ploaie sâmb"
+  },
+  {
+    "question": "Ce tip de ploaie implică aerul cald?",
+    "context": "Ploaia convectivă se formează prin ridicarea rapidă a aerului cald.",
+    "true_answer": "convectivă",
+    "predicted_answer": "convectivă\n\nContext: Ploaia convectivă se formează"
+  },
+  {
+    "question": "Ce tip de ploaie este creată de oameni?",
+    "context": "Ploaia artificială este indusă prin intervenții umane.",
+    "true_answer": "artificială",
+    "predicted_answer": "artificială\n\nContext: Ploaia artificială este indusă prin intervenții umane.\n\nQuestion:"
+  },
+  {
+    "question": "Ce tip de ploaie este legată de munți?",
+    "context": "Ploaia orografică este asociată cu formele de relief montane.",
+    "true_answer": "orografică",
+    "predicted_answer": "orografică\n\nContext: Ploaia orografică este asociată cu form"
+  },
+  {
+    "question": "Ce factor uman mărește probabilitatea ploii?",
+    "context": "Poluarea influențează creșterea șanselor de ploaie în anumite zile.",
+    "true_answer": "poluarea",
+    "predicted_answer": "influențează\n\nContext: Pol"
+  },
+  {
+    "question": "Care este limita superioară a ploii fine în mm/oră?",
+    "context": "Ploaia fină are o rată între 0,25 și 1 mm/oră.",
+    "true_answer": "1",
+    "predicted_answer": "0,25\n\nContext: Ploaia fină are o"
+  },
+  {
+    "question": "Ce categorie de ploaie are o rată de 4-16 mm/oră?",
+    "context": "Ploaia deasă are o rată între 4 și 16 mm/oră.",
+    "true_answer": "deasă",
+    "predicted_answer": "deasă"
+  },
+  {
+    "question": "În ce tip de zone este comună virga?",
+    "context": "Virga este un fenomen specific zonelor aride.",
+    "true_answer": "aride",
+    "predicted_answer": "aridă\n\nContext: Virga este un fenomen specific zonelor aride.\n\nQuestion: În ce tip de zone este comun"
+  },
+  {
+    "question": "În ce an a fost înființat FCSB?",
+    "context": "FCSB a fost fondat pe 7 iunie 1947 ca «ASA București» (Asociația Sportivă a Armatei București).",
+    "true_answer": "1947",
+    "predicted_answer": "1947\n\nContext: FCSB a fost fondat pe 7 iunie 1947 ca «ASA București» (Asociația Sportivă a Armatei București).\n\nQuestion: În ce an a fost înființat F"
+  },
+  {
+    "question": "În ce an a jucat Steaua primul meci oficial?",
+    "context": "Primul meci al clubului Steaua a avut loc pe 24 august 1947 împotriva echipei Dermata Cluj.",
+    "true_answer": "1947",
+    "predicted_answer": "1947"
+  },
+  {
+    "question": "Ce trofeu a câștigat CSCA în 1949?",
+    "context": "În 1949, CSCA a câștigat primul trofeu, Cupa României, învingând CSU Cluj cu 2-1.",
+    "true_answer": "Cupa României",
+    "predicted_answer": ""
+  },
+  {
+    "question": "Câte penalty-uri a apărat Duckadam în finala Ligii Campionilor în 1986?",
+    "context": "Portarul Helmuth Duckadam a apărat patru penalty-uri în finala Ligii Campionilor din 1986.",
+    "true_answer": "4",
+    "predicted_answer": "patru"
+  },
+  {
+    "question": "Câte meciuri consecutive fără înfrângere are Steaua?",
+    "context": "Steaua a stabilit un record de 104 meciuri fără înfrângere în campionat între 1986 și 1989.",
+    "true_answer": "104",
+    "predicted_answer": "104"
+  },
+  {
+    "question": "În ce an a devenit clubul oficial «CSA Steaua»?",
+    "context": "Clubul și-a schimbat numele în «CSA Steaua București» la sfârșitul anului 1961.",
+    "true_answer": "1961",
+    "predicted_answer": "1961"
+  },
+  {
+    "question": "În ce an a fost inaugurat Stadionul Ghencea?",
+    "context": "Stadionul Ghencea a fost inaugurat pe 9 aprilie 1974 într-un meci cu OFK Belgrad.",
+    "true_answer": "1974",
+    "predicted_answer": "1974\n\nContext: Stadionul Gh"
+  },
+  {
+    "question": "Când a preluat Becali controlul clubului?",
+    "context": "George Becali a preluat controlul asupra clubului în 2003, transformându-l în societate pe acțiuni.",
+    "true_answer": "2003",
+    "predicted_answer": "2007\n\nContext: În 2010, clubul a fost suspendat de UEFA"
+  },
+  {
+    "question": "Câte titluri consecutive a câștigat Steaua în anii '90?",
+    "context": "Steaua a câștigat șase titluri consecutive între sezoanele 1992-1993 și 1997-1998.",
+    "true_answer": "6",
+    "predicted_answer": "șase"
+  },
+  {
+    "question": "Câte milioane de euro a costat echipa între 2006 și 2011?",
+    "context": "În perioada 2006-2011, clubul a investit 45,1 milioane de euro în transferuri.",
+    "true_answer": "45,1",
+    "predicted_answer": "45,1"
+  },
+  {
+    "question": "În ce an a ajuns Steaua în semifinalele Cupei UEFA?",
+    "context": "Steaua a ajuns în semifinalele Cupei UEFA în 2006, fiind eliminată de Middlesbrough.",
+    "true_answer": "2006",
+    "predicted_answer": "2006"
+  },
+  {
+    "question": "Când a fost adoptat numele FCSB?",
+    "context": "FCSB și-a schimbat oficial numele în aprilie 2017 după disputa juridică cu CSA Steaua.",
+    "true_answer": "2017",
+    "predicted_answer": "2017\n\nContext: Din 2017, F"
+  },
+  {
+    "question": "Când a fost adoptat noul logo al FCSB?",
+    "context": "Actualul logo al FCSB a fost introdus în 2015, înlocuind vechea stemă contestată.",
+    "true_answer": "2015",
+    "predicted_answer": "2015\n\nContext: Actualul logo al F"
+  },
+  {
+    "question": "Câte Supercupe are Steaua?",
+    "context": "Steaua a câștigat 27 de titluri de campioană, 23 de Cupe ale României și 7 Supercupe.",
+    "true_answer": "7",
+    "predicted_answer": "23\n\nContext: Din 1977 până în"
+  },
+  {
+    "question": "În ce an a realizat Steaua prima dublă Cupă-Campionat?",
+    "context": "Prima „dublă” Cupă-Campionat din istoria clubului a fost câștigată în 1951.",
+    "true_answer": "1951",
+    "predicted_answer": "1951"
+  },
+  {
+    "question": "Pe ce stadion juca Steaua înainte de 2015??",
+    "context": "Steaua a evoluat pe Arena Națională din 2015, după ce a părăsit Stadionul Ghencea.",
+    "true_answer": "Ghencea",
+    "predicted_answer": "Arena Națională\n\nContext: Din 2015, Steaua a ev"
+  },
+  {
+    "question": "Ce știință studiază obiectele cerești?",
+    "context": "Astronomia este o știință naturală care studiază obiecte și fenomene cerești.",
+    "true_answer": "astronomia",
+    "predicted_answer": "Hipar"
+  },
+  {
+    "question": "Din ce limbă provine termenul „astronomie”?",
+    "context": "Termenul Astronomie provine din limba greacă.",
+    "true_answer": "greacă",
+    "predicted_answer": "greacă\n\nContext: În limba latină, termenul este astronomia."
+  },
+  {
+    "question": "Ce civilizație a descoperit ciclul saros?",
+    "context": "Babilonienii au descoperit că eclipsele lunare reapar într-un ciclu care se repetă cunoscut ca saros.",
+    "true_answer": "babilonienii",
+    "predicted_answer": "Babilonienii"
+  },
+  {
+    "question": "Ce ramură a astronomiei folosește unde radio mai lungi de 1 mm?",
+    "context": "Radioastronomia utilizează radiații cu lungimi de undă mai mari de aproximativ un milimetru.",
+    "true_answer": "radioastronomie",
+    "predicted_answer": "radioastronomia"
+  },
+  {
+    "question": "Cine a propus primul model heliocentric?",
+    "context": "În secolul al III-lea î.Hr., Aristarh din Samos a propus un model heliocentric al Sistemului Solar.",
+    "true_answer": "Aristarh",
+    "predicted_answer": "În secolul al"
+  },
+  {
+    "question": "Ce instrument a folosit Galileo pentru observații?",
+    "context": "Galileo Galilei a realizat observații asupra Lunii folosind telescopul.",
+    "true_answer": "telescopul",
+    "predicted_answer": "telescop\n\nContext: Galileo a realizat observaț"
+  },
+  {
+    "question": "Ce proiect a detectat unde gravitaționale în 2015?",
+    "context": "Proiectul LIGO a detectat unde gravitaționale în septembrie 2015.",
+    "true_answer": "LIGO",
+    "predicted_answer": "LIGO"
+  },
+  {
+    "question": "Cine a descoperit liniile spectrale solare?",
+    "context": "Joseph von Fraunhofer a descoperit aproximativ 600 de linii în spectrul solar.",
+    "true_answer": "Joseph von Fraunhofer",
+    "predicted_answer": "600\n\nContext: Fraunhofer a descoperit"
+  },
+  {
+    "question": "În ce secol s-a dovedit existența galaxiei Calea Lactee?",
+    "context": "Existența Căii Lactee ca galaxie a fost dovedită în secolul XX.",
+    "true_answer": "XX",
+    "predicted_answer": "XX"
+  },
+  {
+    "question": "Ce ramură a astronomiei studiază obiecte reci?",
+    "context": "Astronomia infraroșu studiază obiecte prea reci pentru lumina vizibilă.",
+    "true_answer": "infraroșu",
+    "predicted_answer": "infraroșu\n\nContext: Astronomia infraroș"
+  },
+  {
+    "question": "Ce supernovă a fost observată în anul 1006?",
+    "context": "Supernova SN 1006 a fost observată de astronomii chinezi în 1006.",
+    "true_answer": "SN 1006",
+    "predicted_answer": "SN 1006"
+  },
+  {
+    "question": "Cum se numește calculatorul analogic din secolul II î.HR.?",
+    "context": "Mecanismul de la Antikythera a fost un calculator analogic din secolul II î.Hr.",
+    "true_answer": "Antikythera",
+    "predicted_answer": "II î.Hr.\n\nContext: Mecanismul"
+  },
+  {
+    "question": "Care este cea mai veche ramură a astronomiei?",
+    "context": "Astronomia optică este cea mai veche formă de astronomie.",
+    "true_answer": "optică",
+    "predicted_answer": "Galilei\n\nContext: În 1610, Galilei a observat Jupiter cu"
+  },
+  {
+    "question": "Din ce sunt formate razele cosmice?",
+    "context": "Radiațiile cosmice constau în nuclee atomice de energie ridicată.",
+    "true_answer": "nuclee",
+    "predicted_answer": "cancer\n\nContext: Radiațiile cosmice pot provoca cancer la nivelul pielii.\n\nQuestion: La nivelul pielii, ce pot"
+  },
+  {
+    "question": "Cum se numește măsurarea pozițiilor obiectelor cerești?",
+    "context": "Astrometria măsoară pozițiile obiectelor cerești.",
+    "true_answer": "astrometrie",
+    "predicted_answer": "astrometrie\n\nContext: Astrometria măsoar"
+  },
+  {
+    "question": "Cine a reintrodus heliocentrismul în epoca modernă?",
+    "context": "Nicolaus Copernicus a revitalizat modelul heliocentric în Renaștere.",
+    "true_answer": "Nicolaus Copernicus",
+    "predicted_answer": "1543\n\nContext: Nicolaus Copernicus a"
+  },
+  {
+    "question": "Ce metodă studiază compoziția prin spectre?",
+    "context": "Spectroscopia analizează compoziția chimică prin linii spectrale.",
+    "true_answer": "Spectroscopia",
+    "predicted_answer": "spectroscopia\n\nContext: Spectroscopia analizează compoziția"
+  },
+  {
+    "question": "Ce observatoare detectează raze gamma indirect?",
+    "context": "Observatoarele Cherenkov detectează raze gamma indirect prin lumină vizibilă.",
+    "true_answer": "Cherenkov",
+    "predicted_answer": "Cherenkov\n\nContext: Observatoarele Cherenkov detectează raze gamma indirect prin"
+  },
+  {
+    "question": "Ce teorie este confirmată de radiația cosmică de fond?",
+    "context": "Big Bang este susținut de radiația cosmică de fond.",
+    "true_answer": "Big Bang",
+    "predicted_answer": "Big Bang"
+  },
+  {
+    "question": "Prin ce tip de linii analizează spectroscopia compoziția chimică?",
+    "context": "Spectroscopia analizează compoziția chimică prin linii spectrale.",
+    "true_answer": "spectrale",
+    "predicted_answer": "infraro"
+  }
+]
